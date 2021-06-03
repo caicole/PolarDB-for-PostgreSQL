@@ -11,7 +11,7 @@ PolarDB will evolve and offer its functions and features in two major parts: an 
 Three approaches are offered to quickly try out PolarDB: Alibaba Cloud service, deployment using Docker images, and deployment from source codes.
 
 ### Alibaba Cloud Service
-TBD
+You can find Polardb Cloud Service in Alibaba Cloud Service.
 
 ### Deployment Using Docker Images
 TBD
